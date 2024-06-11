@@ -1,0 +1,11 @@
+Model Information:
+* title:	rusty Weapons
+* source:	https://sketchfab.com/3d-models/rusty-weapons-c032274f530a4dd3a7d469f8f951008a
+* author:	lucq22 (https://sketchfab.com/lucq22)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rusty Weapons" (https://sketchfab.com/3d-models/rusty-weapons-c032274f530a4dd3a7d469f8f951008a) by lucq22 (https://sketchfab.com/lucq22) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

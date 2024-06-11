@@ -1,0 +1,11 @@
+Model Information:
+* title:	Battlefield
+* source:	https://sketchfab.com/3d-models/battlefield-ca21d3e13f7946ca920e9ca9890e9299
+* author:	Fabsle (https://sketchfab.com/fabsle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Battlefield" (https://sketchfab.com/3d-models/battlefield-ca21d3e13f7946ca920e9ca9890e9299) by Fabsle (https://sketchfab.com/fabsle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

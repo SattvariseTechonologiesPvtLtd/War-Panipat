@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cannon
+* source:	https://sketchfab.com/3d-models/cannon-e90b0324b7344eeca37e21ce86345876
+* author:	mrkblckwd (https://sketchfab.com/mrkblckwd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cannon" (https://sketchfab.com/3d-models/cannon-e90b0324b7344eeca37e21ce86345876) by mrkblckwd (https://sketchfab.com/mrkblckwd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
